@@ -2,7 +2,7 @@
 
 1.	Nama Aplikasi : Stopwatch RA 119140026 (RA-Muhammad Asyroful Nur Maulana Yusuf-119140026-Tugas Individu 4.apk)
 2.	Deskripsi Aplikasi : 
-Stopwatch RA 119140026 merupakan aplikasi stopwatch pada umumnya dimana berunfsi untuk mengukur waktu dengan penambahan fitur di dalam aplikasi tersebut. Terdapat button Start yang berfungsi untuk memulai stopwatch, Lap untuk mencatatkan waktu, Stop untuk memberhentikan waktu, dan Reset untuk mengatur ulang kembali waktu menjadi 00:00:00.
+Stopwatch RA 119140026 merupakan aplikasi stopwatch pada umumnya dimana berfungsi untuk mengukur waktu dengan penambahan fitur Lap di dalam aplikasi tersebut. Terdapat button Start yang berfungsi untuk memulai stopwatch, Lap untuk mencatatkan waktu, Stop untuk memberhentikan waktu, dan Reset untuk mengatur ulang kembali waktu menjadi 00:00:00.
 3.	Package yang digunakan :
     a.	"expo-constants": "~13.0.1",
     b.	"expo-status-bar": "~1.2.0",
